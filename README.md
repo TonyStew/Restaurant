@@ -1,6 +1,6 @@
 # Restaurant Take Home Assessment
 ## Assumptions made:
-- Table capacity does not change (this would be easy to change if false).
+- Table capacity does not change (this would be easy to fix if false).
 - I assumed that a table being "blocked for availability" was the same as that table being "reserved".
   - This would be harder to change if false but I couldn't imagine a situation that would require a table to be blocked but also unreserved.
 
